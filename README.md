@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaramBelmoujoud&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## TRYHACKME
-<img src="https://tryhackme.com/badge/1684626" alt="tryhackme"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/karam.bd.kb.png" alt="tryhackme"/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KaramBelmoujoud&theme=radical&no-frame=false&no-bg=true&margin-w=4)
