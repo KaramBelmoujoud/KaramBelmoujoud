@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on D-one<br>🌱 I’m currently learning all things related to XR developement<br>⚡ Fun fact : i enjoy what i'm doing if its has to do with making nonesence 
+🔭 Software Engineering specialized on web and mobile developement as well XR developement⚡ Fun fact : i enjoy what i'm doing if its has to do with making nonesence 
 
 
 ## 🌐 Socials:
